@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="intellij-create-method-intent-issue,intellij-create-method-intent-issue.main,intellij-create-method-intent-issue.test,intellij-property-key-inspection-issue,intellij-property-key-inspection-issue.main,intellij-property-key-inspection-issue.test" />
+  </component>
+</project>

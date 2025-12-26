@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.intellij-create-method-intent-issue-build.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.intellij-create-method-intent-issue-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.main.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.test.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-create-method-inspection-issue/intellij-create-method-intent-issue.test.iml" />
+    </modules>
+  </component>
+</project>
