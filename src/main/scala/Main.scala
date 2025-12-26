@@ -1,4 +1,5 @@
 class ExampleClass {
+  def nonExistentMethod(str: String, i: Int): Unit = ???
 
 }
 

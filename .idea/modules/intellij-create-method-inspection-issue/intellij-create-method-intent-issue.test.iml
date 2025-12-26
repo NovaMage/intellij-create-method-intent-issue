@@ -4,17 +4,16 @@
     <option name="name" value="intellij-create-method-intent-issue.test" />
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../../target/scala-3.7.4/test-classes" />
+    <output-test url="file://$MODULE_DIR$/../../../target/scala-2.13/test-classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../src/test" />
-    <content url="file://$MODULE_DIR$/../../../target/scala-3.7.4/resource_managed/test" />
-    <content url="file://$MODULE_DIR$/../../../target/scala-3.7.4/src_managed/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.13/resource_managed/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.13/src_managed/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="sbt: scala-sdk-3.7.4" level="project" />
+    <orderEntry type="library" name="sbt: scala-sdk-2.13.18" level="project" />
     <orderEntry type="module" module-name="intellij-create-method-intent-issue.main" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.7.4:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.16:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.18:jar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="intellij-create-method-intent-issue.main" />
 </module>
